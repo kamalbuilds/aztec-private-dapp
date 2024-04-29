@@ -1,8 +1,6 @@
-# aztec sandbox vite starter
+# aztec private dapp
 
-a starter template for working with the Aztec Sandbox and Vite
-
-## contents
+## Built With
 
 * [Vite](https://vitejs.dev)-powered React app (with all the necessary polyfills)
 * built-in Aztec Sandbox connection
